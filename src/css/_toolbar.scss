@@ -1,0 +1,11 @@
+.pogo-toolbar {
+  max-height: 5rem;
+  height: 5rem;
+  min-height: 5rem;
+}
+
+.pogo-toolbar > img {
+  height: 4.75rem;
+  width: 4.75rem;
+  object-fit: cover;
+}
